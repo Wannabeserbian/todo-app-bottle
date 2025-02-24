@@ -1,6 +1,6 @@
-# Task Management Admin Panel
+# Task Management API
 
-This is a **Task Management Admin Panel** built with **Bottle** (Python), **Bootstrap**, and **Axios**. It features an **Admin Dashboard** with the ability to **add, complete, and delete tasks**.
+This is a **Task Management API** built with **Bottle** (Python) and **SQLite**. It exposes an **API** with the ability to **retrieve all tasks, create new task, update a task and delete task**.
 
 ## 📁 Project Structure
 
