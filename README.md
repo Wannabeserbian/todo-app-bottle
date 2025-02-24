@@ -48,16 +48,11 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 4️⃣ Open in Browser
+### 4️⃣ Use API in Postman (or anywhere else)
 
 ```
 http://localhost:8080/
 ```
-
-## 💡 Usage
-
-- **Task List:** View all tasks, mark as complete, or delete them.
-- **Add New Task:** Create a new task using the form.
 
 ## 📋 API Endpoints
 
@@ -67,11 +62,3 @@ http://localhost:8080/
 | POST   | `/tasks`      | Add a new task     |
 | PUT    | `/tasks/<id>` | Mark task complete |
 | DELETE | `/tasks/<id>` | Delete a task      |
-
-## 💬 Contributing
-
-Feel free to open issues or submit pull requests. Contributions are welcome!
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
