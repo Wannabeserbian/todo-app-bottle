@@ -17,8 +17,10 @@ task_management_app/
 
 ## ✅ Features
 
-- 📋 **Get All Tasks** — View all tasks, mark as complete, or delete.
-- ➕ **Add New Task** — Simple form to add new tasks.
+- 📋 **Get All Tasks** — Retrieve all tasks from the system.
+- ✏️ **Add New Task** — Create a new task using the API.
+- 🔄 **Update Task** — Modify an existing task's details.
+- 🗑️ **Delete Task** — Remove a task from the system.
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +32,7 @@ task_management_app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Wannabeserbian/todo-app-bottle.git
 cd task_management_app
 ```
 
